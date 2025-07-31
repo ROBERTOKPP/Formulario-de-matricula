@@ -55,3 +55,18 @@ img{
   max-width: 100%;
   height: auto;
 }
+.gap-20{
+  gap: 1.25rem;
+}
+
+
+.flex{
+  display: flex;
+}
+
+.flex-1{
+  flex: 1;
+}
+.flex-2{
+  flex: 2;
+}
